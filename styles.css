@@ -1,4 +1,5 @@
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-padding-64 {padding-left: 55px;}
 .w3-row-padding img {margin-bottom: 12px}
 .w3-sidebar {width: 120px;background: rgb(30, 30, 30);}
 #main {margin-left: 120px}
