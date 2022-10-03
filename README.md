@@ -16,5 +16,6 @@
 * THEN I am presented with a responsive layout that adapts to my viewport
 
 ## View
+link: https://favour01216.github.io/Portfolio-Website/
 The following image demonstrates the web application's appearance and functionality:
-(./images/view of website.png)
+<img width="1439" alt="Screen Shot 2022-10-03 at 5 26 48 PM" src="https://user-images.githubusercontent.com/112361368/193667509-b7461571-05d1-4491-a85d-2e1ec8c364b4.png">
